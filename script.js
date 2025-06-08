@@ -51,7 +51,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const blinkingTextElement = document.getElementById('blinking-text');
 
     if (blinkingTextElement) {
-        const wordsToCycle = ['STUDIOS', 'GANG', 'LIFE'];
+        const wordsToCycle = ['STUDIOS', 'ANG', 'LIFE'];
         let currentWordIndex = 0;
 
         function cycleWords() {
